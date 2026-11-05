@@ -1,0 +1,26 @@
+{
+  "title": "Progressive Metal Riffs",
+  "study": "pmr01",
+  "bpm": 148,
+  "source_audio": "preview/progressive-metal-riffs-simple-synth-preview.mp3",
+  "source_audio_sha256": "8355a59ebe68504add898501287b9f22fe860523eb1b93a70f20ab710d3ca1f1",
+  "source_midi": "midi/pmr01-iron-quarry/pmr01-iron-quarry-combined.mid",
+  "source_midi_sha256": "27a7a2815e2d40f0e7c561a9e6181e05b6d9475c5c0e61212d8a4259d09b7619",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "f3b50ade9d617ff9c3d56a9e9732b1533609a428b378caa4c38163a42b186a19",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "40f4699a80d697816f5061fb949d45edb05062f7d42e281fb9f19921c7692376",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "171771d5564053c3c572d56cf8a079610ddcaaac69267c438652a6f69408f58b",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+pmr01,Iron Quarry,pack-local equal-tempered pitch collection,E,148,4/4,480,32,61440,midi/pmr01-iron-quarry/pmr01-iron-quarry-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pmr02,Fault Line,pack-local equal-tempered pitch collection,G,148,4/4,480,32,61440,midi/pmr02-fault-line/pmr02-fault-line-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pmr03,Black Ridge,pack-local equal-tempered pitch collection,A#,148,4/4,480,32,61440,midi/pmr03-black-ridge/pmr03-black-ridge-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pmr04,Long Return,pack-local equal-tempered pitch collection,F,148,4/4,480,32,61440,midi/pmr04-long-return/pmr04-long-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
