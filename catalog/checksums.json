@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/progressive-metal-riffs-midi.zip",
-      "bytes": 31165,
-      "sha256": "ed31b09ab27e5f4100e4a7c3e905ea2cbe3e2cbf2c2371727af8f69dd63374dc"
+      "bytes": 32152,
+      "sha256": "c11f941c8f92f2d14a57edddb6bd6b6aec5d1d5caf1263d1779f2943a22dbad0"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9786,
-      "sha256": "2be8399f967de5b6b1b9c289ab00b3e1ab8e61ae0a7d6235dd16ca15fc05ee30"
+      "bytes": 9976,
+      "sha256": "d7ff1ad592bfc1bb968280ae126bb71247a810478312724a91d5e0e84e583dad"
     },
     {
       "path": "midi/pmr01-iron-quarry/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "8722ccda31a6df075125165a76d0587234896607bbf4041d22a59cffafa26d56"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1139,
       "sha256": "74ad91272c399edaa1f56ad1c723f368298c54ef5d379aab6f227559b94296f1"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4061,
-      "sha256": "d14926db97d27f4e3017eb80f86d84e4eefd4c51a8d5a4265607db77649bc617"
+      "bytes": 4176,
+      "sha256": "3055c8835fb4d120af650e53a1fe14c8296e45cbc87d8b0be8863fcd73b6ef37"
     },
     {
       "path": "REVISION.md",
